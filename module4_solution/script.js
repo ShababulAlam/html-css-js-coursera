@@ -9,5 +9,5 @@
       helloSpeaker.speak(names[i]);
     }
   }
-})(window);
+})(window) ;
 
